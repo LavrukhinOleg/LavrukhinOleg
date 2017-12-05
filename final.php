@@ -40,8 +40,8 @@ h1{
  
  <center>
  <h1>Калькулятор</h1>
- <tr><td>Добавте первое значение</td><td><input type="text" name="first_value" id="" /></td></tr>
- <tr><td>Добавте первое значение</td><td><input type="text" name="second_value" id="" /></td></tr>
+ <tr><td>Добавьте первое значение</td><td><input type="text" name="first_value" id="" /></td></tr>
+ <tr><td>Добавьте второе значение</td><td><input type="text" name="second_value" id="" /></td></tr>
  <tr><td>Операторы</td> 
  <td>
  <select name="operator" id="">
