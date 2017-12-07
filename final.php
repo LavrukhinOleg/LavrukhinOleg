@@ -53,7 +53,7 @@ h1{
   </select></td></tr>
  
  <tr><td><input type="reset" value="Сбросить цыфры" /></td><td><input type="submit" name="submit" value="Давайте считать!!!" /></td></tr>
- <tr><td colspan="2">Автор : Лаврукхин Олег</td></tr>
+ <tr><td colspan="2">Автор : Лаврухин Олег</td></tr>
  </center>
  </table>
  </form>
